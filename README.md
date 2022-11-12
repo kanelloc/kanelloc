@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋
+I'm Babis. I build things mostly using a computer.<br>
+For more information about me, check out (Link).
 
 <!--
 **kanelloc/kanelloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
