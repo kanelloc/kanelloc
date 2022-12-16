@@ -6,7 +6,7 @@ For more information about me, check out [kanelloc.com](https://kanelloc.com)
 ## 💻 Activity
 [![kanelloc](https://github-readme-stats.vercel.app/api?username=kanelloc&theme=onedark&count_private=true)](https://github.com/kanelloc/)
 
-[![kanelloc](https://github-readme-stats.vercel.app/api/top-langs/?username=kanelloc&hide=html&layout=compact&theme=onedark)](https://github.com/kanelloc/)
+[![kanelloc](https://github-readme-stats.vercel.app/api/top-langs/?username=kanelloc&hide=html,php,css,c%2B%2B&layout=compact&theme=onedark)](https://github.com/kanelloc/)
 
 <!--
 **kanelloc/kanelloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
